@@ -20,7 +20,10 @@
   "homepage": "https://github.com/mosef/playground#readme",
   "dependencies": {
     "babel-eslint": "^8.2.3",
+<<<<<<< HEAD
     "node-sass": "^4.9.0",
+=======
+>>>>>>> cf20c339fb1cf22ffa12e1827eb8a434a8e368c6
     "normalize.css": "^8.0.0",
     "react": "^16.3.2",
     "react-dom": "^16.3.2"
