@@ -15,6 +15,8 @@
 .env.test.local
 .env.production.local
 .netlify
+.eslintignore
+.eslintrc.js
 
 config.codekit3
 config.codekit
